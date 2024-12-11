@@ -59,9 +59,9 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div> -->
 
 # 💻 Internships
-- *2023 - 2024* Baidu VIS, Shenzhen, China.
-- *2023 - 2023* Tencent YouTu Lab, Shanghai, China.
-- *2021 - 2022* Sensetime Research, Chengdu, China.
+- *2023 - 2024* Baidu VIS, Shenzhen, China. Worked with [Bi Li](https://scholar.google.com/citations?user=DI0gfQ8AAAAJ&hl=zh-CN&oi=ao).
+- *2023 - 2023* Tencent YouTu Lab, Shanghai, China. Worked with [Bangjie Yin](https://scholar.google.com/citations?user=HDEAoJAAAAAJ&hl=zh-CN&oi=ao) and [Shen Chen](https://chenshen.xyz/).
+- *2021 - 2022* Sensetime Research, Chengdu, China. Worked with [Yongqiang Yao](https://scholar.google.com/citations?hl=zh-CN&user=DztTSf0AAAAJ&view_op=list_works&sortby=pubdate).
 
 # 🎖 Honors and Awards
 - *2023* Merit Student Pacesetter, Peking University. 
