@@ -33,6 +33,15 @@ If interested in collaboration or discussion, please email me.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/aaai2024-acnet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Exploiting Auxiliary Caption for Video Grounding](https://ojs.aaai.org/index.php/AAAI/article/view/29812)
+
+**Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup>
+
+AAAI Conference on Artificial Intelligence (AAAI), 2024
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/iccv2023-g2l.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,9 +50,6 @@ If interested in collaboration or discussion, please email me.
 **Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup>
 
 International Conference on Computer Vision (ICCV), 2023 (Oral)
-
-
-
 </div>
 </div>
 
@@ -52,14 +58,14 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023 - 2024* Baidu VIS, Shenzhen, China.
+- *2023 - 2023* Tencent YouTu Lab, Shanghai, China.
+- *2021 - 2022* Sensetime Research, Chengdu, China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Merit Student Pacesetter, Peking University. 
+- *2021* National Scholarship. 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
