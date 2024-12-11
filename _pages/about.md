@@ -36,12 +36,16 @@ If interested in collaboration or discussion, please email me.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/iccv2023-g2l.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html)
 
 **Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup>
 
 International Conference on Computer Vision (ICCV), 2023 (Oral)
+
+
+
+</div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
