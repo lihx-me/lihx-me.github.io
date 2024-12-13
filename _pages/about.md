@@ -39,7 +39,7 @@ If interested in collaboration or discussion, please email me.
 
 **Hongxiang Li**, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen<sup>#</sup> <br>
 
-<a href="https://lihxxx.github.io/DisPose/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2412.09349"><u>Paper</u></a>, <a href="https://github.com/lihxxx/DisPose"><u>Code</u></a> <br>
+<a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a> <br>
 
 arXiv preprint (arXiv) , arXiv, 2024
 </div>
@@ -51,6 +51,8 @@ arXiv preprint (arXiv) , arXiv, 2024
 
 **Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup> <br>
 
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29812">Paper</a> <br>
+
 AAAI Conference on Artificial Intelligence (AAAI), 2024
 </div>
 </div>
@@ -60,6 +62,8 @@ AAAI Conference on Artificial Intelligence (AAAI), 2024
 [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html)
 
 **Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup> <br>
+
+<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html">Paper</a> <br>
 
 International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
