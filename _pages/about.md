@@ -33,11 +33,23 @@ If interested in collaboration or discussion, please email me.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/dispose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DisPose: Disentangling Pose Guidance for Controllable Human Image Animation](https://arxiv.org/abs/2412.09349)
+
+**Hongxiang Li**, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen<sup>#</sup> <br>
+
+<a href="https://lihxxx.github.io/DisPose/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2412.09349"><u>Paper</u></a>, <a href="https://github.com/lihxxx/DisPose"><u>Code</u></a> <br>
+
+arXiv preprint (arXiv) , arXiv, 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/aaai2024-acnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploiting Auxiliary Caption for Video Grounding](https://ojs.aaai.org/index.php/AAAI/article/view/29812)
 
-**Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup>
+**Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup> <br>
 
 AAAI Conference on Artificial Intelligence (AAAI), 2024
 </div>
@@ -47,7 +59,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2024
 <div class='paper-box-text' markdown="1">
 [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html)
 
-**Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup>
+**Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup> <br>
 
 International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
