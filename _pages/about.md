@@ -28,12 +28,16 @@ If interested in collaboration or discussion, please email me.
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.01.23*: &nbsp; One paper is accepted to ICLR 2025. 
+- *2024.12.20*: &nbsp; One paper are accepted to IEEE TMI.
+- *2024.08.12*: &nbsp; Two paper are accepted to ECCV 2024.
+- *2024.07.16*: &nbsp; One paper are accepted to ACM MM 2024.
+- *2023.12.09*: &nbsp; One paper are accepted to AAAI 2024.
+- *2023.07.18*: &nbsp; Two paper are accepted to ICCV 2023. G2L is accepted as oral.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/dispose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/dispose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DisPose: Disentangling Pose Guidance for Controllable Human Image Animation](https://arxiv.org/abs/2412.09349)
 
@@ -41,7 +45,7 @@ If interested in collaboration or discussion, please email me.
 
 <a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a> <br>
 
-arXiv preprint (arXiv), arXiv, 2024
+International Conference on Learning Representations (ICLR), 2025
 </div>
 </div>
 
@@ -90,7 +94,7 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 💬 Invited Talks
+<!-- # Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
