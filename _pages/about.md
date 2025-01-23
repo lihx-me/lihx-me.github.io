@@ -24,7 +24,8 @@ Hongxiang Li is a final year master's student at Peking University, supervised b
 
 My research interests include Visual Generation and Video Understanding.
 
-If interested in collaboration or discussion, please email me.
+If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
+) me.
 
 
 
@@ -36,7 +37,8 @@ If interested in collaboration or discussion, please email me.
 - *2023.12.09*: &nbsp; One paper are accepted to AAAI 2024.
 - *2023.07.18*: &nbsp; Two paper are accepted to ICCV 2023. G2L is accepted as oral.
 
-# 📝 Publications 
+# 📝 Selected Publications
+See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/dispose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DisPose: Disentangling Pose Guidance for Controllable Human Image Animation](https://arxiv.org/abs/2412.09349)
