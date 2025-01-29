@@ -31,11 +31,11 @@ If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
 
 # 🔥 News
 - *2025.01.23*: &nbsp; One paper is accepted to ICLR 2025. 
-- *2024.12.20*: &nbsp; One paper are accepted to IEEE TMI.
-- *2024.08.12*: &nbsp; Two paper are accepted to ECCV 2024.
-- *2024.07.16*: &nbsp; One paper are accepted to ACM MM 2024.
-- *2023.12.09*: &nbsp; One paper are accepted to AAAI 2024.
-- *2023.07.18*: &nbsp; Two paper are accepted to ICCV 2023. G2L is accepted as oral.
+- *2024.12.20*: &nbsp; One paper is accepted to IEEE TMI.
+- *2024.08.12*: &nbsp; Two papers are accepted to ECCV 2024.
+- *2024.07.16*: &nbsp; One paper is accepted to ACM MM 2024.
+- *2023.12.09*: &nbsp; One paper is accepted to AAAI 2024.
+- *2023.07.18*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as oral.
 
 # 📝 Selected Publications
 See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1).
