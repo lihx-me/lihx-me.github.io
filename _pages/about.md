@@ -30,6 +30,7 @@ If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
 
 
 # 🔥 News
+- *2025.02.02*: &nbsp; One paper is accepted to IEEE TCSVT. 
 - *2025.01.23*: &nbsp; One paper is accepted to ICLR 2025. 
 - *2024.12.20*: &nbsp; One paper is accepted to IEEE TMI.
 - *2024.08.12*: &nbsp; Two papers are accepted to ECCV 2024.
