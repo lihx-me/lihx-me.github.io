@@ -39,7 +39,7 @@ If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
 - *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as Oral.
 
 # 📝 Selected Publications
-See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>*</sup>equal contribution, <sup>#</sup>corresponding author)
+See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>\*</sup>equal contribution, <sup>#</sup>corresponding author)
 
 <!-- ICLR2025 DisPose -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/ICLR2025_DisPose.png' alt="sym" width="100%"></div></div>
@@ -59,7 +59,7 @@ International Conference on Learning Representations (ICLR), 2025
 <div class='paper-box-text' markdown="1">
 [KDProR: A Knowledge-Decoupling Probabilistic Framework for Video-Text Retrieval](https://eccv.ecva.net/virtual/2024/poster/1475)
 
-Xianwei Zhuang<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Xuxin Cheng, Zhihong Zhu, Yuxin Xie, Yuexian Zou<sup>#</sup> <br>
+Xianwei Zhuang<sup>\*</sup>, <b>Hongxiang Li</b><sup>\*</sup>, Xuxin Cheng, Zhihong Zhu, Yuxin Xie, Yuexian Zou<sup>#</sup> <br>
 
 <a href="https://eccv.ecva.net/virtual/2024/poster/1475">Paper</a>,<a href="https://github.com/mengchuang123/KDProR">Code</a> <br>
 
@@ -72,7 +72,7 @@ European Conference on Computer Vision (ECCV), 2024
 <div class='paper-box-text' markdown="1">
 [Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling](https://arxiv.org/abs/2405.19689)
 
-Xuan Wu<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu<sup>#</sup> <br>
+Xuan Wu<sup>\*</sup>, <b>Hongxiang Li</b><sup>\*</sup>, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu<sup>#</sup> <br>
 
 <a href="https://arxiv.org/abs/2405.19689">Paper</a>,<a href="https://github.com/xua222/UPRet">Code</a> <br>
 
