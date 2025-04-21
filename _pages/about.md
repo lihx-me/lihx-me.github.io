@@ -61,7 +61,7 @@ International Conference on Learning Representations (ICLR), 2025
 
 Xianwei Zhuang<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Xuxin Cheng, Zhihong Zhu, Yuxin Xie, Yuexian Zou<sup>#</sup> <br>
 
-<a href="https://eccv.ecva.net/virtual/2024/poster/1475">Paper</a> <a href="https://github.com/mengchuang123/KDProR">Code</a> <br>
+<a href="https://eccv.ecva.net/virtual/2024/poster/1475">Paper</a>,<a href="https://github.com/mengchuang123/KDProR">Code</a> <br>
 
 European Conference on Computer Vision (ECCV), 2024
 </div>
@@ -74,7 +74,7 @@ European Conference on Computer Vision (ECCV), 2024
 
 Xuan Wu<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu<sup>#</sup> <br>
 
-<a href="https://arxiv.org/abs/2405.19689">Paper</a> <a href="https://github.com/xua222/UPRet">Code</a> <br>
+<a href="https://arxiv.org/abs/2405.19689">Paper</a>,<a href="https://github.com/xua222/UPRet">Code</a> <br>
 
 European Conference on Computer Vision (ECCV), 2024
 </div>
