@@ -35,12 +35,14 @@ If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
 - *2024.12*: &nbsp; One paper is accepted to IEEE TMI.
 - *2024.08*: &nbsp; Two papers are accepted to ECCV 2024.
 - *2024.07*: &nbsp; One paper is accepted to ACM MM 2024.
-- *2023.12*: &nbsp; One paper is accepted to AAAI 2024.
-- *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as oral.
+- *2023.12*: &nbsp; Two paper are accepted to AAAI 2024.
+- *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as Oral.
 
 # 📝 Selected Publications
-See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/dispose.png' alt="sym" width="100%"></div></div>
+See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>*</sup>equal contribution, <sup>#</sup>corresponding author)
+
+<!-- ICLR2025 DisPose -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/ICLR2025_DisPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DisPose: Disentangling Pose Guidance for Controllable Human Image Animation](https://arxiv.org/abs/2412.09349)
 
@@ -52,6 +54,22 @@ International Conference on Learning Representations (ICLR), 2025
 </div>
 </div>
 
+<!-- ECCV2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/ECCV2024_KDProR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[KDProR: A Knowledge-Decoupling Probabilistic Framework for Video-Text Retrieval](https://eccv.ecva.net/virtual/2024/poster/1475)
+
+Xianwei Zhuang<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Xuxin Cheng, Zhihong Zhu, Yuxin Xie, Yuexian Zou<sup>#</sup> <br>
+
+<a href="https://eccv.ecva.net/virtual/2024/poster/1475">Paper</a> <a href="https://github.com/mengchuang123/KDProR">Code</a> <br>
+
+
+
+AAAI Conference on Artificial Intelligence (AAAI), 2024
+</div>
+</div>
+
+<!-- AAAI2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/aaai2024-acnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploiting Auxiliary Caption for Video Grounding](https://ojs.aaai.org/index.php/AAAI/article/view/29812)
@@ -64,13 +82,14 @@ AAAI Conference on Artificial Intelligence (AAAI), 2024
 </div>
 </div>
 
+<!-- ICCV2023 G2L -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023 Oral</div><img src='images/iccv2023-g2l.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html)
+[G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://arxiv.org/abs/2307.14277)
 
 **Hongxiang Li**, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou<sup>#</sup> <br>
 
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html">Paper</a> <br>
+<a href="https://arxiv.org/abs/2307.14277">Paper</a> <br>
 
 International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
@@ -90,8 +109,9 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 <!--  Worked with [Yongqiang Yao](https://scholar.google.com/citations?hl=zh-CN&user=DztTSf0AAAAJ&view_op=list_works&sortby=pubdate).-->
 
 # 🎖 Honors and Awards
-- *2023* Merit Student Pacesetter, Peking University. 
-- *2021* National Scholarship. 
+- *2024* Merit Student, Peking University. 
+- *2023* Merit Student, Peking University. 
+- *2020* National Scholarship. 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
