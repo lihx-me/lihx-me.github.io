@@ -54,7 +54,7 @@ International Conference on Learning Representations (ICLR), 2025
 </div>
 </div>
 
-<!-- ECCV2024 -->
+<!-- ECCV2024 KDProR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/ECCV2024_KDProR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [KDProR: A Knowledge-Decoupling Probabilistic Framework for Video-Text Retrieval](https://eccv.ecva.net/virtual/2024/poster/1475)
@@ -63,9 +63,20 @@ Xianwei Zhuang<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Xuxin Cheng, Zhihon
 
 <a href="https://eccv.ecva.net/virtual/2024/poster/1475">Paper</a> <a href="https://github.com/mengchuang123/KDProR">Code</a> <br>
 
+European Conference on Computer Vision (ECCV), 2024
+</div>
+</div>
 
+<!-- ECCV2024 UPRet-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/ECCV2024_UPRet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling](https://arxiv.org/abs/2405.19689)
 
-AAAI Conference on Artificial Intelligence (AAAI), 2024
+Xuan Wu<sup>*</sup>, <b>Hongxiang Li</b><sup>*</sup>, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu<sup>#</sup> <br>
+
+<a href="https://arxiv.org/abs/2405.19689">Paper</a> <a href="https://github.com/xua222/UPRet">Code</a> <br>
+
+European Conference on Computer Vision (ECCV), 2024
 </div>
 </div>
 
