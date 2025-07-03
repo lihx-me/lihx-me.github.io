@@ -24,8 +24,7 @@ Hongxiang Li is a final year master's student at Peking University, supervised b
 
 My research interests include Visual Generation and Video Understanding.
 
-If interested in collaboration or discussion, please [email](lihxxxxxx@gmail.com
-) me.
+If interested in collaboration or discussion, please email (lihxxxxxx@gmail.com) me.
 
 
 
