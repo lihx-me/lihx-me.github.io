@@ -17,16 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hongxiang Li is a final year master's student at Peking University, supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
+I am an incoming PhD student at the Hong Kong University of Science and Technology in the 2025 Fall, supervised by[Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ). Before that, I obtained my M.S. degree from Peking University, supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
 
-
-
-
-My research interests include Visual Generation and Video Understanding.
+My research interests include Visual Generation and Multi-modal Large Language Model.
 
 If interested in collaboration or discussion, please email (lihxxxxxx@gmail.com) me.
-
-
 
 # 🔥 News
 - *2025.02*: &nbsp; One paper is accepted to IEEE TCSVT. 
