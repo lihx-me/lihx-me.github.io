@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at The Hong Kong University of Science and Technology (HKUST) in the 2025 Fall, supervised by[Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ). Before that, I obtained my M.S. degree from Peking University (PKU), supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
+I am an incoming PhD student at The Hong Kong University of Science and Technology (HKUST) in the 2025 Fall, supervised by [Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ). Before that, I obtained my M.S. degree from Peking University (PKU), supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
 
 My research interests include Visual Generation and Multi-modal Large Language Model.
 
@@ -29,7 +29,7 @@ If interested in collaboration or discussion, please email (lihxxxxxx@gmail.com)
 - *2024.12*: &nbsp; One paper is accepted to IEEE TMI.
 - *2024.08*: &nbsp; Two papers are accepted to ECCV 2024.
 - *2024.07*: &nbsp; One paper is accepted to ACM MM 2024.
-- *2023.12*: &nbsp; Two paper are accepted to AAAI 2024.
+- *2023.12*: &nbsp; Two papers are accepted to AAAI 2024.
 - *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as Oral.
 
 # 📝 Selected Publications
@@ -106,12 +106,9 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div> -->
 
 # 💻 Internships
-- *2023 - 2024* Baidu VIS, Shenzhen, China.
- <!-- Worked with [Bi Li](https://scholar.google.com/citations?user=DI0gfQ8AAAAJ&hl=zh-CN&oi=ao).-->
-- *2023 - 2023* Tencent YouTu Lab, Shanghai, China.
-<!--  Worked with [Bangjie Yin](https://scholar.google.com/citations?user=HDEAoJAAAAAJ&hl=zh-CN&oi=ao) and [Shen Chen](https://chenshen.xyz/).-->
-- *2021 - 2022* SenseTime Research, Chengdu, China.
-<!--  Worked with [Yongqiang Yao](https://scholar.google.com/citations?hl=zh-CN&user=DztTSf0AAAAJ&view_op=list_works&sortby=pubdate).-->
+- *2023 - 2024* Baidu VIS, China.
+- *2023 - 2023* Tencent YouTu Lab, China.
+- *2021 - 2022* SenseTime Research, China.
 
 # 🎖 Honors and Awards
 - *2024* Merit Student, Peking University. 
