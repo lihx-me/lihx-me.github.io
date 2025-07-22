@@ -21,10 +21,10 @@ I am an incoming PhD student at The Hong Kong University of Science and Technolo
 
 My research interests include Visual Generation and Multi-modal Large Language Model.
 
-If interested in collaboration or discussion, please email (lihxxxxxx@gmail.com) me.
+If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.com).
 
 # 🔥 News
-- *2025.07*: I will serve as Program Committee for AAAI 2026.
+- *2025.07*: I will serve on the Program Committee for AAAI 2026.
 - *2025.02*: One paper is accepted to IEEE TCSVT. 
 - *2025.01*: One paper is accepted to ICLR 2025. 
 - *2024.12*: One paper is accepted to IEEE TMI.
