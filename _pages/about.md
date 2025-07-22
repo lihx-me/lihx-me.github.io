@@ -24,13 +24,14 @@ My research interests include Visual Generation and Multi-modal Large Language M
 If interested in collaboration or discussion, please email (lihxxxxxx@gmail.com) me.
 
 # 🔥 News
-- *2025.02*: &nbsp; One paper is accepted to IEEE TCSVT. 
-- *2025.01*: &nbsp; One paper is accepted to ICLR 2025. 
-- *2024.12*: &nbsp; One paper is accepted to IEEE TMI.
-- *2024.08*: &nbsp; Two papers are accepted to ECCV 2024.
-- *2024.07*: &nbsp; One paper is accepted to ACM MM 2024.
-- *2023.12*: &nbsp; Two papers are accepted to AAAI 2024.
-- *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. G2L is accepted as Oral.
+- *2025.07*: I will serve as Program Committee for AAAI 2026.
+- *2025.02*: One paper is accepted to IEEE TCSVT. 
+- *2025.01*: One paper is accepted to ICLR 2025. 
+- *2024.12*: One paper is accepted to IEEE TMI.
+- *2024.08*: Two papers are accepted to ECCV 2024.
+- *2024.07*: One paper is accepted to ACM MM 2024.
+- *2023.12*: Two papers are accepted to AAAI 2024.
+- *2023.07*: Two papers are accepted to ICCV 2023. G2L is accepted as Oral.
 
 # 📝 Selected Publications
 See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>\*</sup>equal contribution, <sup>#</sup>corresponding author)
