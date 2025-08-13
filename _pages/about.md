@@ -24,6 +24,7 @@ My research interests include Visual Generation and Multi-modal Large Language M
 If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.com).
 
 # 🔥 News
+- *2025.08*: One paper is accepted to SIGGRAPH Asia 2025.
 - *2025.07*: I will serve on the Program Committee for AAAI 2026.
 - *2025.02*: One paper is accepted to IEEE TCSVT. 
 - *2025.01*: One paper is accepted to ICLR 2025. 
