@@ -43,7 +43,7 @@ See full list at [Google Scholar](https://scholar.google.com/citations?view_op=l
 
 **Hongxiang Li**<sup>\*</sup>, Yaowei Li<sup>\*</sup>, Bin Lin, Yuwei Niu, Yuhang Yang, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen<sup>#</sup> <br>
 
-<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a> <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <br>
+<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <br>
 
 arXiv, 2025
 </div>
