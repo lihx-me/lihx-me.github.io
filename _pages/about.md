@@ -36,6 +36,20 @@ If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.c
 # 📝 Selected Publications
 See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>\*</sup>equal contribution, <sup>#</sup>corresponding author)
 
+<!-- arXiv2025 GIR-Bench -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/GIR-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[GIR-Bench: Versatile Benchmark for Generating Images with Reasoning](https://arxiv.org/abs/2510.11026)
+
+**Hongxiang Li**<sup>\*</sup>, Yaowei Li<sup>\*</sup>, Bin Lin, Yuwei Niu, Yuhang Yang, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen<sup>#</sup> <br>
+
+<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a> <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <br>
+
+arXiv, 2025
+</div>
+</div>
+
+
 <!-- ICLR2025 DisPose -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/ICLR2025_DisPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
