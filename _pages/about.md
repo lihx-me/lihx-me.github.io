@@ -138,4 +138,4 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=AbY0eZ8quUPf9VeC7NZUqCdtLZgiNwiGUPulSATsYxE'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=AbY0eZ8quUPf9VeC7NZUqCdtLZgiNwiGUPulSATsYxE'></script>
