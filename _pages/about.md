@@ -120,7 +120,8 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
 </div> -->
 
-# 💻 Internships
+# 💼 Internships
+- *2025 - Present* Xiaohongshu Inc., China.
 - *2023 - 2024* Baidu VIS, China.
 - *2023 - 2023* Tencent YouTu Lab, China.
 - *2021 - 2022* SenseTime Research, China.
@@ -128,13 +129,19 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 # 🎖 Honors and Awards
 - *2024* Merit Student, Peking University. 
 - *2023* Merit Student, Peking University. 
-- *2020* National Scholarship. 
+- *2020* National Scholarship.
+
+# 💻 Professional Services
+* Conference Reviewer: CVPR, ICCV, ECCV, ICLR, ACM MM, AAAI
+* Journal Reviewer: IEEE TMM, IEEE TCSVT
+* Co-organizer of [Video Generation Workshop](https://sites.google.com/view/aaai26-cvm/) at AAAI 2026
+
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # Academic Services
+<!-- # 💻 Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
