@@ -57,7 +57,8 @@ arXiv, 2025
 
 **Hongxiang Li**, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen<sup>#</sup> <br>
 
-<a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a> <br>
+<a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a> <img src='https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star' alt="LongLive" height="100%">
+ <br>
 
 International Conference on Learning Representations (ICLR), 2025
 </div>
