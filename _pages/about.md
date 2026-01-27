@@ -23,7 +23,9 @@ My research interests include Visual Generation and Multi-modal Large Language M
 
 If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.com).
 
+
 # 🔥 News
+- *2026.01*: Two papers are accepted to ICLR 2026.
 - *2025.08*: One paper is accepted to SIGGRAPH Asia 2025.
 - *2025.02*: One paper is accepted to IEEE TCSVT. 
 - *2025.01*: One paper is accepted to ICLR 2025. 
@@ -43,9 +45,10 @@ See full list at [Google Scholar](https://scholar.google.com/citations?view_op=l
 
 **Hongxiang Li**<sup>\*</sup>, Yaowei Li<sup>\*</sup>, Bin Lin, Yuwei Niu, Yuhang Yang, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen<sup>#</sup> <br>
 
-<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <br>
+<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <img src='https://img.shields.io/github/stars/HKUST-LongGroup/GIR-Bench.svg?style=social&label=Star' alt="LongLive" height="100%">
+<br>
 
-arXiv, 2025
+International Conference on Learning Representations (ICLR), 2026
 </div>
 </div>
 
