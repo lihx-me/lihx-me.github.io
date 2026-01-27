@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hant) (2025 Fall), supervised by [Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ). Before that, I obtained my M.S. degree from [Peking University (PKU)](https://www.pku.edu.cn/), supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
+I am a first-year PhD student at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hant) (2025 Fall), supervised by [Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ).
 
-My research interests include Visual Generation and Multi-modal Large Language Model.
+Before that, I obtained my M.S. degree from [Peking University (PKU)](https://www.pku.edu.cn/), supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
+
+My research interests include Unified Multimodal Models and Multi-modal Large Language Models.
 
 If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.com).
 
