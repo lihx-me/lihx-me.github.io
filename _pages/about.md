@@ -25,6 +25,11 @@ My research interests include Unified Multimodal Models and Multi-modal Large La
 
 If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.com).
 
+<font color="red">
+🔍 I am currently seeking internships related to Unified Multimodal Models and Multi-modal Large Language Models (MLLM). Please feel free to contact me if you have any opportunities!
+</font>
+
+
 
 # 🔥 News
 - *2026.01*: Two papers are accepted to ICLR 2026.
