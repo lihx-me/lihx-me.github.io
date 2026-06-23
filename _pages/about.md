@@ -32,6 +32,7 @@ If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.c
 
 
 # 🔥 News
+- *2026.06*: Two papers are accepted to ECCV 2026.
 - *2026.01*: Two papers are accepted to ICLR 2026.
 - *2025.08*: One paper is accepted to SIGGRAPH Asia 2025.
 - *2025.02*: One paper is accepted to IEEE TCSVT. 
@@ -44,6 +45,21 @@ If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.c
 
 # 📝 Selected Publications
 See full list at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=U4AwycUAAAAJ&authuser=1). (<sup>\*</sup>equal contribution, <sup>#</sup>corresponding author)
+
+<!-- ECCV2026 SPAR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2026</div><img src='images/ECCV2026_SPAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models
+](https://arxiv.org/abs/2606.23041)
+
+**Hongxiang Li**<sup>\*</sup>, Hongxu Chen<sup>\*</sup>, Chenyang Zhu, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen<sup>#</sup> <br>
+
+<a href="https://hkust-longgroup.github.io/SPAR/">Project</a>, <a href="https://arxiv.org/abs/2606.23041">Paper</a>
+<br>
+
+European Conference on Computer Vision (ECCV), 2026
+</div>
+</div>
 
 <!-- ICLR2026 GIR-Bench -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026</div><img src='images/GIR-Bench.png' alt="sym" width="100%"></div></div>
