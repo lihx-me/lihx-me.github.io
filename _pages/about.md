@@ -63,7 +63,7 @@ European Conference on Computer Vision (ECCV), 2026
 </div>
 
 <!-- ICML2026 BASolver-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/ICML2026_BASolver' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/ICML2026_BASolver.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling
 ](https://arxiv.org/abs/2601.21542)
