@@ -62,7 +62,7 @@ European Conference on Computer Vision (ECCV), 2026
 </div>
 </div>
 
-<!-- ICML2026 Bi -->
+<!-- ICML2026 BASolver-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/ICML2026_BASolver' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling
@@ -70,7 +70,8 @@ European Conference on Computer Vision (ECCV), 2026
 
 Hongxu Chen<sup>\*</sup>, **Hongxiang Li**<sup>\*</sup>, Zhen Wang, Long Chen<sup>#</sup> <br>
 
-<a href="https://arxiv.org/abs/2601.21542">Paper</a>, <a href="https://github.com/HKUST-LongGroup/BA-solver">Code</a>, <img src='https://img.shields.io/github/stars/HKUST-LongGroup/BA-solver.svg?style=social&label=Star' alt="LongLive" height="100%">
+<a href="https://arxiv.org/abs/2601.21542">Paper</a>, <a href="https://github.com/HKUST-LongGroup/BA-solver">Code</a>
+<!-- <img src='https://img.shields.io/github/stars/HKUST-LongGroup/BA-solver.svg?style=social&label=Star' alt="LongLive" height="100%"> -->
 <br>
 
 International Conference on Machine Learning (ICML), 2026
@@ -84,7 +85,8 @@ International Conference on Machine Learning (ICML), 2026
 
 **Hongxiang Li**<sup>\*</sup>, Yaowei Li<sup>\*</sup>, Bin Lin, Yuwei Niu, Yuhang Yang, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen<sup>#</sup> <br>
 
-<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a> <img src='https://img.shields.io/github/stars/HKUST-LongGroup/GIR-Bench.svg?style=social&label=Star' alt="LongLive" height="100%">
+<a href="https://hkust-longgroup.github.io/GIR-Bench">Project</a>, <a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench">Code</a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench">Data</a>
+<!-- <img src='https://img.shields.io/github/stars/HKUST-LongGroup/GIR-Bench.svg?style=social&label=Star' alt="LongLive" height="100%"> -->
 <br>
 
 International Conference on Learning Representations (ICLR), 2026
@@ -99,7 +101,8 @@ International Conference on Learning Representations (ICLR), 2026
 
 **Hongxiang Li**, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen<sup>#</sup> <br>
 
-<a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a> <img src='https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star' alt="LongLive" height="100%">
+<a href="https://lihxxx.github.io/DisPose/">Project</a>, <a href="https://arxiv.org/abs/2412.09349">Paper</a>, <a href="https://github.com/lihxxx/DisPose">Code</a>
+<!-- <img src='https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star' alt="LongLive" height="100%"> -->
  <br>
 
 International Conference on Learning Representations (ICLR), 2025
