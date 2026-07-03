@@ -33,6 +33,7 @@ If interested in collaboration or discussion, please email me (lihxxxxxx@gmail.c
 
 # 🔥 News
 - *2026.06*: Two papers are accepted to ECCV 2026.
+- *2026.05*: One papers is accepted to ICML 2026.
 - *2026.01*: Two papers are accepted to ICLR 2026.
 - *2025.08*: One paper is accepted to SIGGRAPH Asia 2025.
 - *2025.02*: One paper is accepted to IEEE TCSVT. 
@@ -58,6 +59,21 @@ See full list at [Google Scholar](https://scholar.google.com/citations?view_op=l
 <br>
 
 European Conference on Computer Vision (ECCV), 2026
+</div>
+</div>
+
+<!-- ICML2026 Bi -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/ICML2026_BASolver' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling
+](https://arxiv.org/abs/2601.21542)
+
+Hongxu Chen<sup>\*</sup>, **Hongxiang Li**<sup>\*</sup>, Zhen Wang, Long Chen<sup>#</sup> <br>
+
+<a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/BA-solver">Code</a>, <img src='https://img.shields.io/github/stars/HKUST-LongGroup/BA-solver.svg?style=social&label=Star' alt="LongLive" height="100%">
+<br>
+
+International Conference on Machine Learning (ICML), 2026
 </div>
 </div>
 
