@@ -70,7 +70,7 @@ European Conference on Computer Vision (ECCV), 2026
 
 Hongxu Chen<sup>\*</sup>, **Hongxiang Li**<sup>\*</sup>, Zhen Wang, Long Chen<sup>#</sup> <br>
 
-<a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://github.com/HKUST-LongGroup/BA-solver">Code</a>, <img src='https://img.shields.io/github/stars/HKUST-LongGroup/BA-solver.svg?style=social&label=Star' alt="LongLive" height="100%">
+<a href="https://arxiv.org/abs/2601.21542">Paper</a>, <a href="https://github.com/HKUST-LongGroup/BA-solver">Code</a>, <img src='https://img.shields.io/github/stars/HKUST-LongGroup/BA-solver.svg?style=social&label=Star' alt="LongLive" height="100%">
 <br>
 
 International Conference on Machine Learning (ICML), 2026
