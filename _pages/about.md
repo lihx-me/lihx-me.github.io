@@ -179,7 +179,7 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 
 # 💻 Professional Services
 * Conference Reviewer: CVPR, ICCV, ECCV, ICLR, ACM MM, AAAI
-* Journal Reviewer: IEEE TMM, IEEE TCSVT
+* Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT
 * Co-organizer of [Video Generation Workshop](https://sites.google.com/view/aaai26-cvm/) at AAAI 2026
 
 
