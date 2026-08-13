@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hant) (2025 Fall), supervised by [Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ).
+I am a PhD student at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hant) (2025 Fall), supervised by [Long Chen](https://scholar.google.com/citations?user=-gtmMpIAAAAJ).
 
 Before that, I obtained my M.S. degree from [Peking University (PKU)](https://www.pku.edu.cn/), supervised by [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN).
 
@@ -166,14 +166,14 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 </div>
 </div> -->
 
-<!--
+
 # 💼 Internships
 - *2026 - present* Tencent WXG (QingYun), China.
 - *2025 - 2026* Xiaohongshu Inc., China.
 - *2023 - 2024* Baidu VIS, China.
 - *2023 - 2023* Tencent YouTu Lab, China.
 - *2021 - 2022* SenseTime Research, China.
--->
+
 
 # 🎖 Honors and Awards
 - *2024* Merit Student, Peking University. 
