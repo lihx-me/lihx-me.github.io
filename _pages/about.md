@@ -168,7 +168,7 @@ International Conference on Computer Vision (ICCV), 2023 (Oral)
 
 
 # 💼 Internships
-- *2026 - present* Tencent WXG (QingYun), China.
+- *2026 - Present* Tencent WXG (QingYun), China.
 - *2025 - 2026* Xiaohongshu Inc., China.
 - *2023 - 2024* Baidu VIS, China.
 - *2023 - 2023* Tencent YouTu Lab, China.
